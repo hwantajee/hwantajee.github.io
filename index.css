@@ -1,8 +1,4 @@
 .header {
   font-weight: bold;
-  border-bottom: 3px;
-  border-top: none;
-  border-right: none;
-  border-left: none;
   border-color: rgb(141, 139, 139);
 }
