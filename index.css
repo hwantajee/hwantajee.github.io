@@ -6,4 +6,6 @@ body {
   font-weight: bold;
   color: white;
   font-family: 'Times New Roman', Times, serif;
+  border-bottom-style: 5px, white;
+
 }
