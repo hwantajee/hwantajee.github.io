@@ -1,11 +1,11 @@
 body {
-  background-color:#008B8B;
+  /* background-color:#008B8B; */
 }
 
 .header {
   font-weight: bold;
-  color: white;
+  /* color: white; */
   font-family: 'Times New Roman', Times, serif;
-  border-bottom-style: 5px, white;
+  /* border-bottom-style: 5px, white; */
 
 }
