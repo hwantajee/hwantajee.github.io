@@ -3,7 +3,7 @@ body {
   background-color:rgb(240, 240, 240);
 }
 
-#wrap > .header {
+#wrap > #header {
   font-weight: bold;
   /* color: white; */
   font-family: 'Times New Roman', Times, serif;
@@ -12,7 +12,7 @@ body {
   border-bottom: 1px solid #ebebeb;
 }
 
-#wrap > .container > #content > .article_list > .topic > .prj_unimarket {
+#wrap > .container > #content > .article_list > .topic > .prj_unimarket > a {
   text-align: left;
   text-decoration: none;
 }
