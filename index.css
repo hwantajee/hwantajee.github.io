@@ -1,6 +1,7 @@
 body {
   /* background-color:#008B8B; */
   background-color:rgb(240, 240, 240);
+  text-align: center;
   
 }
 
@@ -10,4 +11,12 @@ body {
   font-family: 'Times New Roman', Times, serif;
   /* border-bottom-style: 5px, white; */
 
+}
+
+.wrap > .container > #content > .article_list > .topic > .prj_list {
+  border-style: 3px, grey;
+}
+
+.wrap > #info > .dev_env > p {
+  display: inline-block;
 }
