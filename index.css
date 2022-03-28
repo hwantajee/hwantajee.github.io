@@ -3,19 +3,14 @@ body {
   background-color:rgb(240, 240, 240);
 }
 
-.wrap > .header {
+#wrap > .header {
   font-weight: bold;
-  color: white;
+  /* color: white; */
   font-family: 'Times New Roman', Times, serif;
   /* border-bottom-style: 5px, white; */
-
 }
 
-.wrap > .container > #content > .article_list > .topic > .prj_list {
+#wrap > .container > #content > .article_list > .topic > .prj_list {
   border-style: 3px, grey;
   text-align: center;
-}
-
-.wrap > .container > #content > .article_list > .topic > .prj_list > #info > .dev_env {
-  display: inline-block;
 }
