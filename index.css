@@ -8,12 +8,14 @@ body {
   /* color: white; */
   font-family: 'Times New Roman', Times, serif;
   /* border-bottom-style: 5px, white; */
+  color: #000000;
   text-decoration: none;
   border-bottom: 3px solid #ebebeb;
 }
 
 #wrap > .container > #content > .article_list > .topic > .prj_unimarket {
   text-align: left;
+  color: #000000;
   text-decoration: none;
   border-bottom: 3px solid #ebebeb;
 }
