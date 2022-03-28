@@ -4,7 +4,7 @@ body {
   
 }
 
-.header {
+.wrap > .header {
   font-weight: bold;
   color: white;
   font-family: 'Times New Roman', Times, serif;
