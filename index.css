@@ -8,9 +8,11 @@ body {
   /* color: white; */
   font-family: 'Times New Roman', Times, serif;
   /* border-bottom-style: 5px, white; */
+  text-decoration: none;
+  border-bottom: 1px solid #ebebeb;
 }
 
-#wrap > .container > #content > .article_list > .topic > .prj_list {
-  border-style: 3px, grey;
-  text-align: center;
+#wrap > .container > #content > .article_list > .topic > .prj_unimarket {
+  text-align: left;
+  text-decoration: none;
 }
