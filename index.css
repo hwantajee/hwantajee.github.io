@@ -1,8 +1,6 @@
 body {
   /* background-color:#008B8B; */
   background-color:rgb(240, 240, 240);
-  text-align: center;
-  
 }
 
 .wrap > .header {
@@ -15,8 +13,9 @@ body {
 
 .wrap > .container > #content > .article_list > .topic > .prj_list {
   border-style: 3px, grey;
+  text-align: center;
 }
 
-.wrap > #info > .dev_env > p {
+.wrap > .container > #content > .article_list > .topic > .prj_list > #info > .dev_env {
   display: inline-block;
 }
