@@ -2457,6 +2457,7 @@ input, select, textarea {
 		text-decoration: none;
 		white-space: nowrap;
 		box-sizing: inherit;
+		width: 80%;
 	}
 
 		input[type="submit"]:hover,
