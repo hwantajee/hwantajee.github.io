@@ -2346,7 +2346,7 @@ input, select, textarea {
 					ul.actions:not(.fixed) li input[type="button"],
 					ul.actions:not(.fixed) li button,
 					ul.actions:not(.fixed) li .button {
-						width: inherit;
+						width: 100%;
 					}
 
 						ul.actions:not(.fixed) li input[type="submit"].icon:before,
@@ -2456,6 +2456,7 @@ input, select, textarea {
 		text-align: center;
 		text-decoration: none;
 		white-space: nowrap;
+		box-sizing: inherit;
 	}
 
 		input[type="submit"]:hover,
