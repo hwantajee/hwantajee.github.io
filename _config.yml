@@ -9,12 +9,12 @@ exclude:
   - "/vendor/"
 
 # Site settings
-title: hwantajee
+title: Herick Hwan Jee
 subtitle: "subtitle here"
 email: hwantajee@gmail.com
 name: Herick Hwan Jee
 description: >
-  A simple yet classy theme for your Jekyll website or blog.
+  a blog about data analytics and analytics engineering
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
@@ -51,6 +51,15 @@ jekyll-archives:
 
 # Google analytics
 # ga_tracking_id: "UA-XXXX-1"
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-4D29E53Y6J"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-4D29E53Y6J');
+</script>
 
 # Category descriptions (for archive pages)
 descriptions:
